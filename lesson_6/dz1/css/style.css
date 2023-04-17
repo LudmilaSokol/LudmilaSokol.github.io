@@ -1,0 +1,19 @@
+.box-header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #000;
+	height: 24px;
+	padding: 18px 0;
+}
+.element-header {
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+}
+.element-header a {
+	color: #fff;
+}
+p {
+	margin-top: 85px;
+}
