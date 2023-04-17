@@ -21,7 +21,7 @@
 
 [Урок 9](https://LudmilaSokol.github.io/lesson_9/ "ускорение верстки") - верстка при помощи Bootstrap 3.
 
-[Урок 10](https://LudmilaSokol.github.io/lesson_10/ "препроцессор LESS") - Препроцессор LESS для CSS
+Урок 10 - Препроцессор LESS для CSS. Приложен файл main.less согласно домашнего задания.
 
 [Урок 11](https://LudmilaSokol.github.io/lesson_11/ "сниппеты") - Сниппеты
 
