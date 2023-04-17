@@ -7,4 +7,6 @@
 
 [Урок 4](https://LudmilaSokol.github.io/lesson_4/ "файл с ссылкой на codepen") - знакомство с основами html
 
+[Урок 5](https://LudmilaSokol.github.io/lesson_5/ "мини-книга") - знакомство с основами scc
+
 [Урок 12](https://LudmilaSokol.github.io/lesson_12/ "Описание") - работа с репозиторием на GitHub
