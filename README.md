@@ -1,4 +1,4 @@
 # Соколовская Людмила
 Мои домашние задания
 
-[Урок 12](https://LudmilaSokol.github.io/lesson_12/ "Описание")
+[Урок 12](https://LudmilaSokol.github.io/lesson_12/ "Описание") - работа с репозиторием на GitHub
