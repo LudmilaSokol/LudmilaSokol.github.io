@@ -17,4 +17,6 @@
 
 [Урок 8](https://LudmilaSokol.github.io/lesson_8/ "ускорение верстки") - Ускорение верстки. Bootstrap 3.
 
+[Урок 9](https://LudmilaSokol.github.io/lesson_9/ "ускорение верстки") - верстка при помощи Bootstrap 3.
+
 [Урок 12](https://LudmilaSokol.github.io/lesson_12/ "Описание") - работа с репозиторием на GitHub
