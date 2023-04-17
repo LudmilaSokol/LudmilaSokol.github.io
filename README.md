@@ -23,6 +23,6 @@
 
 Урок 10 - Препроцессор LESS для CSS. Приложен файл main.less согласно домашнего задания.
 
-[Урок 11](https://LudmilaSokol.github.io/lesson_11/ "сниппеты") - Сниппеты
+[Урок 11](lesson_11/ "сниппеты") - Сниппеты
 
 [Урок 12](https://LudmilaSokol.github.io/lesson_12/ "GitHub") - работа с репозиторием на GitHub
