@@ -21,4 +21,6 @@
 
 [Урок 10](https://LudmilaSokol.github.io/lesson_10/ "препроцессор LESS") - Препроцессор LESS для CSS
 
-[Урок 12](https://LudmilaSokol.github.io/lesson_12/ "Описание") - работа с репозиторием на GitHub
+[Урок 11](https://LudmilaSokol.github.io/lesson_11/ "сниппеты") - Сниппеты
+
+[Урок 12](https://LudmilaSokol.github.io/lesson_12/ "GitHub") - работа с репозиторием на GitHub
