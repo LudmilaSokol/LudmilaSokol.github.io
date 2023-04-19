@@ -28,3 +28,5 @@
 [Урок 12](https://LudmilaSokol.github.io/lesson_12/ "GitHub") - работа с репозиторием на GitHub
 
 [Урок 13](https://LudmilaSokol.github.io/lesson_13/ "верстка pixel perfect") - верстка pixel perfect. Домашнее задание
+
+[Практика. Часть1](https://LudmilaSokol.github.io/practice_1/ "Шапка сайта") - Верстка шапки сайта
