@@ -46,7 +46,7 @@
 small {
 	font-size: 1.3rem;
 }
-/*.font-open {
+.font-open {
     font-family: 'Open Sans', sans-serif;
 } 
 .font-bebas {
@@ -57,4 +57,4 @@ small {
 }
 .font-lobster {
     font-family: 'Lobster',cursive;
-}*/
+}
