@@ -40,3 +40,5 @@
 [Практика. Часть3](https://LudmilaSokol.github.io/practice_3/ "Эффекты и адаптив") - Эффекты при наведении и адаптив первого экрана.
 
 [Урок 16](https://LudmilaSokol.github.io/lesson_16/ "Слайдер") - слайдер на сайте.
+
+[Практика. Часть4](https://LudmilaSokol.github.io/practice_4/ "Слайдер") - Слайдер. Верстка второго блока макета.
