@@ -42,3 +42,5 @@
 [Урок 16](https://LudmilaSokol.github.io/lesson_16/ "Слайдер") - слайдер на сайте.
 
 [Практика. Часть4](https://LudmilaSokol.github.io/practice_4/ "Слайдер") - Слайдер. Верстка второго блока макета.
+
+[Урок 17](https://LudmilaSokol.github.io/lesson_17/ "Всплывающие окна") - Всплывающие окна
