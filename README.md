@@ -44,3 +44,5 @@
 [Практика. Часть4](https://LudmilaSokol.github.io/practice_4/ "Слайдер") - Слайдер. Верстка второго блока макета.
 
 [Урок 17](https://LudmilaSokol.github.io/lesson_17/ "Всплывающие окна") - Всплывающие окна
+
+[Практика. Часть5](https://LudmilaSokol.github.io/practice_5/ "Модальные окна") - Верстка модального окна на сайте.
