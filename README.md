@@ -46,3 +46,5 @@
 [Урок 17](https://LudmilaSokol.github.io/lesson_17/ "Всплывающие окна") - Всплывающие окна
 
 [Практика. Часть5](https://LudmilaSokol.github.io/practice_5/ "Модальные окна") - Верстка модального окна на сайте.
+
+[Урок 18.1](https://LudmilaSokol.github.io/lesson_18.1/ "Tabs") - Tabs на сайте
