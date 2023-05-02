@@ -1,0 +1,78 @@
+body {
+	font-family: Myriad Pro, sans-serif;
+	font-size: 24px;
+}
+.container {
+	width: 720px;
+	height: 510px;
+	background-image: radial-gradient(circle, rgba(204, 204, 204, 0.6), rgba(17, 17, 17, 0.4)), url(../img/bg.png);
+}
+.box-form {
+	width: 635px;
+	height: 440px;
+	margin: 3rem auto;
+}
+.nav {
+	margin-left: 15px;
+}
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+	background-color: #03a5da;
+	color: #fff;
+	text-shadow: rgba(0, 0, 0, 0.7) 1px 1px;
+}
+.nav li a {
+	background-color: #fff;
+	color: #080808;
+	margin-left: 10px;
+}
+
+.tab-content { 
+	border: 25px solid #03a5da;
+	border-radius: 4px;
+}
+
+.tab-content .form-input {
+	display: block;
+	background: #191818;
+	border: none;
+	margin: 20px auto;
+	padding-left: 24px;
+	color: #fff;
+	width: 480px;
+	height: 60px;
+}
+.form {
+	background-color: #000;
+	padding: 20px;
+	height: 344px;
+}
+.form .form-checkbox {
+	/*display: inline-block;*/
+	padding-top: 60px;
+	color: #6f6d6d;
+}
+.form .form-hint {
+	color: #c51f03;
+}
+.form-btn {
+	position: relative;
+	right: -480px;
+	padding: 0;
+	background: linear-gradient(to left, #810601 0%, #be1d03 45%, #810601 90%);
+	color: #fff;
+	font-size: 24px;
+	width: 128px;
+	height: 42px;
+}
+#entrance .form-btn {
+	bottom: 36px;
+}
+#registration .form-btn {
+	bottom: -88px;
+}
+p {
+	font-size: 15px;
+	padding-left: 53px;
+}
