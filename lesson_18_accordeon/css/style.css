@@ -1,0 +1,36 @@
+body {
+	font-family: Ubuntu, sans-serif;
+	font-size: 24px;
+}
+
+.container {
+	background: url(../img/bg.jpg);
+	padding: 5rem;
+}
+.header-box {
+	text-align: center;
+	color: #0bbaf0;
+	text-transform: uppercase;
+	font-weight: 900;
+	margin-bottom: 4rem;
+}
+.header-box span {
+	display: block;
+	font-size: 24px;
+	font-weight: 400;
+}
+.panel-group {
+	margin: 0 auto;
+	width: 860px;
+}
+.panel-default > .panel-heading {
+	background-color: #0bbaf0;
+	color: #fff;
+}
+.panel-title {
+	font-size: 24px;
+}
+.panel-body {
+	font-size: 22px;
+	line-height: 1.1;
+}
