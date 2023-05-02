@@ -48,3 +48,5 @@
 [Практика. Часть5](https://LudmilaSokol.github.io/practice_5/ "Модальные окна") - Верстка модального окна на сайте.
 
 [Урок 18.1](https://LudmilaSokol.github.io/lesson_18_tabs/ "Tabs") - Tabs на сайте
+
+[Урок 18.2](https://LudmilaSokol.github.io/lesson_18_accordeon/ "Collapse") - Аккордион на сайте
