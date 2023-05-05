@@ -54,3 +54,5 @@
 [Практика. Часть6](https://LudmilaSokol.github.io/practice_6 "Блок с ценами") - Верстка блока с ценами.
 
 [Урок 19](https://LudmilaSokol.github.io/lesson_19/ "Анимация") - Анимация на css
+
+[Практика. Часть7](https://LudmilaSokol.github.io/practice_7 "Блок с отзывами") - Верстка блока с отзывами.
