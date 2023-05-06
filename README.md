@@ -58,3 +58,5 @@
 [Практика. Часть7](https://LudmilaSokol.github.io/practice_7 "Блок с отзывами") - Верстка блока с отзывами.
 
 [Урок 20](https://LudmilaSokol.github.io/lesson_20/ "Видео-фон") - Видео-фон на сайте
+
+[Практика. Часть8](https://LudmilaSokol.github.io/practice_8 "Блок с отзывами") - Доверстка блока с отзывами.
