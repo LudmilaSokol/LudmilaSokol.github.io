@@ -62,3 +62,5 @@
 [Практика. Часть8](https://LudmilaSokol.github.io/practice_8 "Блок с отзывами") - Доверстка блока с отзывами.
 
 [Урок 21](https://LudmilaSokol.github.io/lesson_21/ "Parallax") - Parallax эффект для сайта.
+
+[Практика. Часть9](https://LudmilaSokol.github.io/practice_9 "Два блока") - Схема работы и все включено.
