@@ -60,3 +60,5 @@
 [Урок 20](https://LudmilaSokol.github.io/lesson_20/ "Видео-фон") - Видео-фон на сайте
 
 [Практика. Часть8](https://LudmilaSokol.github.io/practice_8 "Блок с отзывами") - Доверстка блока с отзывами.
+
+[Урок 21](https://LudmilaSokol.github.io/lesson_21/ "Parallax") - Parallax эффект для сайта.
