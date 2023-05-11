@@ -63,4 +63,4 @@
 
 [Урок 21](https://LudmilaSokol.github.io/lesson_21/ "Parallax") - Parallax эффект для сайта.
 
-[Практика. Часть9](https://LudmilaSokol.github.io/practice_9 "Два блока") - Схема работы и все включено.
+[Практика. Часть9](https://LudmilaSokol.github.io/practice_9 "два блока сайта") - Блоки Все вкличено и схема работы.
