@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10px;
+	height: 53rem;
+}
+.container {
+	position: relative;
+}
+.box {
+	position: relative;
+	top: -20px;
+	background-color: #c60b0b;
+	color: #fff;
+	padding: 7rem;
+	text-align: center;
+	height: 45rem;
+	margin-top: 0;
+	z-index: 1000;
+}
+.box h2 {
+	margin-top: 0;
+	margin-bottom: 4rem;
+}
+.box p {
+	font-size: 1.8rem;
+	margin-bottom: 4rem;
+}
+.box a {
+	color: #fff;
+	text-decoration: underline;
+}
+.map {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 2;
+}
+
+footer {
+	min-height: 9.3rem;
+	vertical-align: middle;
+}
+footer img {
+	
+	vertical-align: middle;
+}
+footer h4 {
+	font-size: 1.6rem;
+}
+footer h3 {
+	font-size: 2.2rem;
+	margin-top: 0;
+}
+footer p {
+	font-size: 1.4rem;
+	margin-top: 1rem;
+}
+.footer-center-text {
+	color: #666666;
+}
+.footer-box {
+	display: inline-block;
+	margin-top: 1rem;
+}
