@@ -66,3 +66,5 @@
 [Практика. Часть9](https://LudmilaSokol.github.io/practice_9 "два блока сайта") - Блоки Все вкличено и схема работы.
 
 [Урок 22](https://LudmilaSokol.github.io/lesson_22/ "Гео-карты") - Гео-карты для сайта.
+
+[Практика. Часть10](https://LudmilaSokol.github.io/practice_10 "Развеиваем сомнения") - Блок "Развеиваем сомнения".
