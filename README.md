@@ -70,3 +70,5 @@
 [Практика. Часть10](https://LudmilaSokol.github.io/practice_10 "Развеиваем сомнения") - Блок "Развеиваем сомнения".
 
 [Практика. Часть11](https://LudmilaSokol.github.io/practice_11 "Материалы") - Блок "Материалы".
+
+[Практика.](https://LudmilaSokol.github.io/practice "") - почти готовый сайт.
